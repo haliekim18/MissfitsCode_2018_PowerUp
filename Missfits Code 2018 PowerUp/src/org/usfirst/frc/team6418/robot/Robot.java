@@ -31,6 +31,7 @@ public class Robot extends IterativeRobot {
 	RobotDrive robotDrive;
 
 	// Channels for the wheels
+	//angela says hi :)
 	final int kFrontLeftChannel = 2;
 	final int kRearLeftChannel = 3;
 	final int kFrontRightChannel = 1;
